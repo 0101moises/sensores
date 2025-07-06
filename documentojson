@@ -1,8 +1,7 @@
-String variables;
-DynamicJsonDocument doc(JSON_OBJECT_SIZE(1024));
 
-  doc["temperature"] = TEMPERATURA;
-  doc["humidity"] = presure;
-  serializeJson(doc, Serial);
-  
-{"temperatura":temperatura, "presion": "presure, }
+{
+"variables":{
+"temperatura":temperatura, 
+  "presion": "presure, } 
+
+}
