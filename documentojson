@@ -5,3 +5,4 @@ DynamicJsonDocument doc(JSON_OBJECT_SIZE(1024));
   doc["humidity"] = presure;
   serializeJson(doc, Serial);
   
+{"temperatura":temperatura, "presion": "presure, }
