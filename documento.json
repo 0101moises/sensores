@@ -1,32 +1,32 @@
 {
 "equipo 1":{
 "temperatura 1":temperatura, 
-  "presion 1": presure, } 
+  "presion 1": presure}, 
   "equipo 2":{
 "temperatura 2":temperatura, 
-  "presion 2": presure, } 
+  "presion 2": presure} ,
   "equipo 3":{
 "temperatura 3":temperatura, 
-  "presion 3": presure, } 
+  "presion 3": presure}, 
     "equipo 4":{
 "temperatura 4":temperatura, 
-  "presion 4": presure, } 
+  "presion 4": presure}, 
     "equipo 5":{
 "temperatura 5":temperatura, 
-  "presion 5": presure, } 
+  "presion 5": presure}, 
       "equipo 6":{
 "temperatura 6":temperatura, 
-  "presion 6": presure, } 
+  "presion 6": presure}, 
       "equipo 7":{
 "temperatura 7":temperatura, 
-  "presion 7": presure, } 
+  "presion 7": presure}, 
         "equipo 8":{
 "temperatura 8":temperatura, 
-  "presion 8": presure, }
+  "presion 8": presure},
         "equipo 9":{
 "temperatura 9":temperatura, 
-  "presion 9": presure, }
+  "presion 9": presure},
           "equipo 10":{
 "temperatura 10":temperatura, 
-  "presion 10": presure, } 
+  "presion 10": presure}, 
 }
